@@ -1,0 +1,20 @@
+{
+  "name": "node-001-simple-node-app",
+  "version": "1.0.0",
+  "description": "simple node server",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vaibhav-khot/node-001-simple-node-app.git"
+  },
+  "author": "Vaibhav Khot",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vaibhav-khot/node-001-simple-node-app/issues"
+  },
+  "homepage": "https://github.com/vaibhav-khot/node-001-simple-node-app#readme"
+}
